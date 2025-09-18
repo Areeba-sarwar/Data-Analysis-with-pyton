@@ -45,6 +45,6 @@ This repository contains projects, notebooks, and datasets demonstrating **data 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Data-Analysis-with-Python.git
-   cd Data-Analysis-with-Python
+ git clone https://github.com/Areeba-sarwar/Data-Analysis-with-Python.git
+cd Data-Analysis-with-Python
 
