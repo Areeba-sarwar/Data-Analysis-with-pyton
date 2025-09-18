@@ -40,11 +40,12 @@ This repository contains projects, notebooks, and datasets demonstrating **data 
 ✔️ Hands-on with NumPy & Pandas  
 
 ---
-
 ## 🚀 How to Use  
 
 1. Clone the repository:  
    ```bash
- git clone https://github.com/Areeba-sarwar/Data-Analysis-with-Python.git
-cd Data-Analysis-with-Python
+   git clone https://github.com/Areeba-sarwar/Data-Analysis-with-Python.git
+   cd Data-Analysis-with-Python
+
+
 
